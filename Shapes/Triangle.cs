@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShapeMath.Models
+namespace ShapeMath.Shapes
 {
-    internal class Triangle
+    public class Triangle
     {
         public double SideA { get; }
         public double SideB { get; }
